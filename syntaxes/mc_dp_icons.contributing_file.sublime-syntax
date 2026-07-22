@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: contributing
+scope: mc_dp_icons.contributing_file
+hidden: true
+file_extensions:
+  - CONTRIBUTING
+  - CONTRIBUTING.md
+  - CONTRIBUTING.txt
+contexts:
+  main:
+   - include: scope:source.binary

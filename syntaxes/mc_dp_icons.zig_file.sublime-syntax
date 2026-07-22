@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: zig
+scope: mc_dp_icons.zig_file
+hidden: true
+file_extensions:
+  - zir
+  - zon
+contexts:
+  main:
+   - include: scope:source.binary

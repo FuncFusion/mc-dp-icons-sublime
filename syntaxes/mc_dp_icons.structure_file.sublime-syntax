@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: structure
+scope: mc_dp_icons.structure_file
+hidden: true
+file_extensions:
+  - mcstructure
+contexts:
+  main:
+   - include: scope:source.binary

@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: cargo
+scope: mc_dp_icons.cargo_file
+hidden: true
+file_extensions:
+  - Cargo.toml
+contexts:
+  main:
+   - include: scope:source.binary

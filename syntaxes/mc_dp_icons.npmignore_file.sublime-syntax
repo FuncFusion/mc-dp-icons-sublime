@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: npmignore
+scope: mc_dp_icons.npmignore_file
+hidden: true
+file_extensions:
+  - npmignore
+contexts:
+  main:
+   - include: scope:source.binary

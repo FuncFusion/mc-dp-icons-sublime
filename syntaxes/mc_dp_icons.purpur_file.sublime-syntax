@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: purpur
+scope: mc_dp_icons.purpur_file
+hidden: true
+file_extensions:
+  - purpur.yaml
+  - purpur.yml
+contexts:
+  main:
+   - include: scope:source.binary

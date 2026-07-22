@@ -1,0 +1,20 @@
+%YAML 1.2
+---
+name: docker
+scope: mc_dp_icons.docker_file
+hidden: true
+file_extensions:
+  - compose.override.json
+  - compose.override.yaml
+  - compose.override.yml
+  - compose.yaml
+  - compose.yml
+  - docker-compose.override.yaml
+  - docker-compose.override.yml
+  - docker-compose.yaml
+  - docker-compose.yml
+  - Dockerfile
+  - dockerignore
+contexts:
+  main:
+   - include: scope:source.binary

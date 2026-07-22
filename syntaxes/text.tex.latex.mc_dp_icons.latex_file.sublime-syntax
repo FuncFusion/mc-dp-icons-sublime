@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: LaTeX
+scope: text.tex.latex.mc_dp_icons.latex_file
+hidden: true
+file_extensions:
+  - tex
+contexts:
+  main:
+   - include: scope:text.tex.latex

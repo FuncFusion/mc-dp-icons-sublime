@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: ruby
+scope: mc_dp_icons.ruby_file
+hidden: true
+file_extensions:
+  - mspec
+  - rbs
+contexts:
+  main:
+   - include: scope:source.binary

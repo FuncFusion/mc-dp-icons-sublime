@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: TOML
+scope: source.toml.mc_dp_icons.toml_file
+hidden: true
+file_extensions:
+  - toml
+contexts:
+  main:
+   - include: scope:source.toml

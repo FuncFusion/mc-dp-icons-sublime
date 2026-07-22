@@ -1,0 +1,26 @@
+%YAML 1.2
+---
+name: xml
+scope: mc_dp_icons.xml_file
+hidden: true
+file_extensions:
+  - admx
+  - aseprite-data
+  - aseprite-keys
+  - filters
+  - ivy
+  - jelly
+  - mxml
+  - nuspec
+  - resx
+  - wsdl
+  - xib
+  - xlf
+  - xliff
+  - xmi
+  - xsd
+  - xsl
+  - xslt
+contexts:
+  main:
+   - include: scope:source.binary

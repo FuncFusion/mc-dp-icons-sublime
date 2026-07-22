@@ -1,0 +1,40 @@
+%YAML 1.2
+---
+name: models
+scope: mc_dp_icons.models_file
+hidden: true
+file_extensions:
+  - 3dm
+  - 3ds
+  - 3mf
+  - blend
+  - blockymodel
+  - c4d
+  - collada
+  - dxf
+  - fbx
+  - glb
+  - iges
+  - ipt
+  - ma
+  - max
+  - mb
+  - mqo
+  - obj
+  - ply
+  - pmx
+  - skp
+  - step
+  - stl
+  - stp
+  - usd
+  - usda
+  - usdc
+  - usdz
+  - vox
+  - vrm
+  - wrl
+  - x3d
+contexts:
+  main:
+   - include: scope:source.binary

@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: maven
+scope: mc_dp_icons.maven_file
+hidden: true
+file_extensions:
+  - pom
+contexts:
+  main:
+   - include: scope:source.binary

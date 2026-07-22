@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: shaders
+scope: mc_dp_icons.shaders_file
+hidden: true
+file_extensions:
+  - gdshader
+  - gpl
+contexts:
+  main:
+   - include: scope:source.binary

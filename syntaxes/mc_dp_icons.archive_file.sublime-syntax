@@ -1,0 +1,42 @@
+%YAML 1.2
+---
+name: archive
+scope: mc_dp_icons.archive_file
+hidden: true
+file_extensions:
+  - mcaddon
+  - mceditoraddon
+  - mcpack
+  - mcproject
+  - mctemplate
+  - mcworld
+  - 7z
+  - ace
+  - arj
+  - asar
+  - bak
+  - br
+  - bz2
+  - bzip2
+  - cab
+  - gz
+  - gzip
+  - iso
+  - lz4
+  - lzma
+  - pak
+  - rar
+  - rpm
+  - squashfs
+  - sublime-package
+  - tar
+  - tgz
+  - txz
+  - tz
+  - vhd
+  - xz
+  - zip
+  - zst
+contexts:
+  main:
+   - include: scope:source.binary

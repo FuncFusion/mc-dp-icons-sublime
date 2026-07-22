@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: fabric
+scope: mc_dp_icons.fabric_file
+hidden: true
+file_extensions:
+  - fabric-mod.json
+  - accesswidener
+contexts:
+  main:
+   - include: scope:source.binary

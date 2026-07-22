@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: mcbuild
+scope: mc_dp_icons.mcbuild_file
+hidden: true
+file_extensions:
+  - mcb
+  - mcbt
+contexts:
+  main:
+   - include: scope:source.binary

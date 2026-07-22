@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <key>scope</key>
+        <string>source.python,mc_dp_icons.python_file,source.json.mc_dp_icons.python_file,source.toml.mc_dp_icons.python_file</string>
+        <key>settings</key>
+        <dict>
+            <key>icon</key>
+            <string>python_file</string>
+        </dict>
+    </dict>
+</plist>

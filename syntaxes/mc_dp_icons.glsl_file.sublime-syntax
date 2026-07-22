@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: glsl
+scope: mc_dp_icons.glsl_file
+hidden: true
+file_extensions:
+  - hlsl
+  - wgsl
+contexts:
+  main:
+   - include: scope:source.binary

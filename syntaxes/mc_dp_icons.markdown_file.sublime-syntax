@@ -1,0 +1,15 @@
+%YAML 1.2
+---
+name: markdown
+scope: mc_dp_icons.markdown_file
+hidden: true
+file_extensions:
+  - md.rendered
+  - mdtext
+  - mdtxt
+  - mdx
+  - mkd
+  - mkdn
+contexts:
+  main:
+   - include: scope:source.binary

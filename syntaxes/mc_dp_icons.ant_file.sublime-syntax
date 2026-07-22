@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: ant
+scope: mc_dp_icons.ant_file
+hidden: true
+file_extensions:
+  - ant.xml
+  - build.xml
+  - ant
+contexts:
+  main:
+   - include: scope:source.binary

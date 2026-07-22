@@ -1,0 +1,14 @@
+%YAML 1.2
+---
+name: javascript
+scope: mc_dp_icons.javascript_file
+hidden: true
+file_extensions:
+  - es6
+  - jake
+  - jsm
+  - jss
+  - pac
+contexts:
+  main:
+   - include: scope:source.binary

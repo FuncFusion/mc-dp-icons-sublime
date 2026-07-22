@@ -1,0 +1,17 @@
+%YAML 1.2
+---
+name: android
+scope: mc_dp_icons.android_file
+hidden: true
+file_extensions:
+  - aab
+  - aar
+  - apk
+  - apks
+  - axml
+  - dalvik
+  - dex
+  - smali
+contexts:
+  main:
+   - include: scope:source.binary

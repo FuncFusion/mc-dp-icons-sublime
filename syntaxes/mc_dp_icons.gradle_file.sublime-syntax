@@ -1,0 +1,14 @@
+%YAML 1.2
+---
+name: gradle
+scope: mc_dp_icons.gradle_file
+hidden: true
+file_extensions:
+  - gradle-wrapper.properties
+  - gradle.properties
+  - gradlew
+  - gradlew.bat
+  - gradle.kts
+contexts:
+  main:
+   - include: scope:source.binary

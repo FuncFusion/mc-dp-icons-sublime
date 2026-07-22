@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: biomes_client.json
+scope: mc_dp_icons.biomes_client.json_file
+hidden: true
+file_extensions:
+  - biomes_client.json
+  - client_biome.json
+contexts:
+  main:
+   - include: scope:source.binary

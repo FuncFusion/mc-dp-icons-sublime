@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: jar
+scope: mc_dp_icons.jar_file
+hidden: true
+file_extensions:
+  - jar
+contexts:
+  main:
+   - include: scope:source.binary

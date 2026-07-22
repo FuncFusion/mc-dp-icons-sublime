@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: beet
+scope: mc_dp_icons.beet_file
+hidden: true
+file_extensions:
+  - beet.json
+  - beet.yaml
+  - beet.yml
+contexts:
+  main:
+   - include: scope:source.binary

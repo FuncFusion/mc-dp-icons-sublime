@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: fox
+scope: mc_dp_icons.fox_file
+hidden: true
+file_extensions:
+  - .gitlab-ci.yaml
+  - .gitlab-ci.yml
+  - neoforge.mods.toml
+  - fox
+contexts:
+  main:
+   - include: scope:source.binary

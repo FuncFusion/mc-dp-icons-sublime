@@ -1,0 +1,40 @@
+%YAML 1.2
+---
+name: video
+scope: mc_dp_icons.video_file
+hidden: true
+file_extensions:
+  - mcmeta
+  - 3g2
+  - 3gp
+  - amv
+  - asf
+  - avi
+  - blockyanim
+  - f4p
+  - f4v
+  - flv
+  - gifv
+  - m4v
+  - mkv
+  - mov
+  - mp4
+  - mpe
+  - mpeg
+  - mpg
+  - mpv
+  - mxf
+  - nsv
+  - ogv
+  - pdv
+  - qt
+  - rm
+  - roq
+  - svi
+  - vob
+  - webm
+  - wmv
+  - yuv
+contexts:
+  main:
+   - include: scope:source.binary

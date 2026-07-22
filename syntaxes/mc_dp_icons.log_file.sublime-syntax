@@ -1,0 +1,14 @@
+%YAML 1.2
+---
+name: log
+scope: mc_dp_icons.log_file
+hidden: true
+file_extensions:
+  - dmp
+  - dump
+  - err
+  - log
+  - tmp
+contexts:
+  main:
+   - include: scope:source.binary

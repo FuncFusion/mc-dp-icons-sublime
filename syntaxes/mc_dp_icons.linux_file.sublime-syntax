@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: linux
+scope: mc_dp_icons.linux_file
+hidden: true
+file_extensions:
+  - deb
+  - so
+contexts:
+  main:
+   - include: scope:source.binary

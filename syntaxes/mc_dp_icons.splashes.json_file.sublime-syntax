@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: splashes.json
+scope: mc_dp_icons.splashes.json_file
+hidden: true
+file_extensions:
+  - splashes.txt
+  - splashes.json
+contexts:
+  main:
+   - include: scope:source.binary

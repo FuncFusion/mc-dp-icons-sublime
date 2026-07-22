@@ -1,0 +1,18 @@
+%YAML 1.2
+---
+name: assembly
+scope: mc_dp_icons.assembly_file
+hidden: true
+file_extensions:
+  - a51
+  - armasm
+  - asm
+  - gas
+  - hla
+  - mips
+  - mitigus
+  - nasm
+  - yasm
+contexts:
+  main:
+   - include: scope:source.binary

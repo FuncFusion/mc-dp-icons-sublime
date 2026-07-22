@@ -1,0 +1,21 @@
+%YAML 1.2
+---
+name: binary
+scope: mc_dp_icons.binary_file
+hidden: true
+file_extensions:
+  - a
+  - bin
+  - blob
+  - bson
+  - dll
+  - dylib
+  - hex
+  - jsxbin
+  - lib
+  - o
+  - scn
+  - sys
+contexts:
+  main:
+   - include: scope:source.binary

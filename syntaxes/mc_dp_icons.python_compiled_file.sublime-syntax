@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: python_compiled
+scope: mc_dp_icons.python_compiled_file
+hidden: true
+file_extensions:
+  - pyc
+  - pyd
+  - pyo
+  - whl
+contexts:
+  main:
+   - include: scope:source.binary

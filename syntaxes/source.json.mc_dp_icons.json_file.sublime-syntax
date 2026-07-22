@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: JSON
+scope: source.json.mc_dp_icons.json_file
+hidden: true
+file_extensions:
+  - json
+  - jsonc
+contexts:
+  main:
+   - include: scope:source.json

@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: pascal
+scope: mc_dp_icons.pascal_file
+hidden: true
+file_extensions:
+  - inc
+  - lpr
+  - pp
+contexts:
+  main:
+   - include: scope:source.binary

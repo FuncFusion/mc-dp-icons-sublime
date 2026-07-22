@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: jmc
+scope: mc_dp_icons.jmc_file
+hidden: true
+file_extensions:
+  - jmc
+contexts:
+  main:
+   - include: scope:source.binary

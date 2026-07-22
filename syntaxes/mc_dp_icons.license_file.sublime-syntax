@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: license
+scope: mc_dp_icons.license_file
+hidden: true
+file_extensions:
+  - LICENSE
+  - LICENSE.md
+  - LICENSE.txt
+contexts:
+  main:
+   - include: scope:source.binary

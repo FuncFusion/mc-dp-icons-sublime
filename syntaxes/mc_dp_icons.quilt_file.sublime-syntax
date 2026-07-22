@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: quilt
+scope: mc_dp_icons.quilt_file
+hidden: true
+file_extensions:
+  - quilt.mod.json
+contexts:
+  main:
+   - include: scope:source.binary

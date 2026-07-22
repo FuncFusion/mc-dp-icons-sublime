@@ -1,0 +1,28 @@
+%YAML 1.2
+---
+name: shell
+scope: mc_dp_icons.shell_file
+hidden: true
+file_extensions:
+  - awk
+  - command
+  - csh
+  - exp
+  - fish
+  - ksh
+  - ksh93
+  - mksh
+  - nu
+  - pdksh
+  - ps1
+  - ps1xml
+  - psc1
+  - psd1
+  - psm1
+  - pssc
+  - rbash
+  - rc
+  - tcsh
+contexts:
+  main:
+   - include: scope:source.binary

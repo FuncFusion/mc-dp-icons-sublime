@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: fragment_shader
+scope: mc_dp_icons.fragment_shader_file
+hidden: true
+file_extensions:
+  - fp
+contexts:
+  main:
+   - include: scope:source.binary

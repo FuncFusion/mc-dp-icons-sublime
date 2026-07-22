@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: spigot
+scope: mc_dp_icons.spigot_file
+hidden: true
+file_extensions:
+  - spigot.yaml
+  - spigot.yml
+contexts:
+  main:
+   - include: scope:source.binary

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <key>scope</key>
+        <string>source.sql.psql,source.sql,mc_dp_icons.database_file</string>
+        <key>settings</key>
+        <dict>
+            <key>icon</key>
+            <string>database_file</string>
+        </dict>
+    </dict>
+</plist>

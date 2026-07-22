@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <key>scope</key>
+        <string>mc_dp_icons.godot_project_file</string>
+        <key>settings</key>
+        <dict>
+            <key>icon</key>
+            <string>godot_project_file</string>
+        </dict>
+    </dict>
+</plist>

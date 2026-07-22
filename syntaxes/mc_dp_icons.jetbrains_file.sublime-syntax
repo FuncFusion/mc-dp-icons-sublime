@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: jetbrains
+scope: mc_dp_icons.jetbrains_file
+hidden: true
+file_extensions:
+  - iml
+  - ipr
+  - iws
+contexts:
+  main:
+   - include: scope:source.binary

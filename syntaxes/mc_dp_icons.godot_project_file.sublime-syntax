@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: godot_project
+scope: mc_dp_icons.godot_project_file
+hidden: true
+file_extensions:
+  - project.godot
+contexts:
+  main:
+   - include: scope:source.binary

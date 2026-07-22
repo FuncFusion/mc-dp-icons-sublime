@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: npm
+scope: mc_dp_icons.npm_file
+hidden: true
+file_extensions:
+  - .npmrc
+  - package.json
+contexts:
+  main:
+   - include: scope:source.binary

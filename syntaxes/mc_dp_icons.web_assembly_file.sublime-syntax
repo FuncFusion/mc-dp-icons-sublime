@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: web_assembly
+scope: mc_dp_icons.web_assembly_file
+hidden: true
+file_extensions:
+  - wasm
+contexts:
+  main:
+   - include: scope:source.binary

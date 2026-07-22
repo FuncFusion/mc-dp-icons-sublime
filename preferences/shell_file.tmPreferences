@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <key>scope</key>
+        <string>source.shell.bash,source.dosbatch,source.tcl,source.shell.zsh,mc_dp_icons.shell_file,source.java.mc_dp_icons.shell_file</string>
+        <key>settings</key>
+        <dict>
+            <key>icon</key>
+            <string>shell_file</string>
+        </dict>
+    </dict>
+</plist>

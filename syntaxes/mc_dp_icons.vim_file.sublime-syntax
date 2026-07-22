@@ -1,0 +1,14 @@
+%YAML 1.2
+---
+name: vim
+scope: mc_dp_icons.vim_file
+hidden: true
+file_extensions:
+  - .gvimrc
+  - .vimrc
+  - _gvimrc
+  - _vimrc
+  - vim
+contexts:
+  main:
+   - include: scope:source.binary

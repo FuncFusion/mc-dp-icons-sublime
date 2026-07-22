@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <key>scope</key>
+        <string>mc_dp_icons.models_file,source.json.mc_dp_icons.models_file,source.glsl.mc_dp_icons.models_file</string>
+        <key>settings</key>
+        <dict>
+            <key>icon</key>
+            <string>models_file</string>
+        </dict>
+    </dict>
+</plist>

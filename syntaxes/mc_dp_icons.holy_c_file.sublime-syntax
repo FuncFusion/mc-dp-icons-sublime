@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: holy_c
+scope: mc_dp_icons.holy_c_file
+hidden: true
+file_extensions:
+  - hc
+  - hc.z
+contexts:
+  main:
+   - include: scope:source.binary

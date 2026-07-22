@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: sponge_mixins
+scope: mc_dp_icons.sponge_mixins_file
+hidden: true
+file_extensions:
+  - mixins.json
+  - refmap.json
+contexts:
+  main:
+   - include: scope:source.binary

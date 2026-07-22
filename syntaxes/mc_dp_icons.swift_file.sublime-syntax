@@ -1,0 +1,14 @@
+%YAML 1.2
+---
+name: swift
+scope: mc_dp_icons.swift_file
+hidden: true
+file_extensions:
+  - swiftdeps
+  - swiftdoc
+  - swiftinterface
+  - swiftmodule
+  - swiftsourceinfo
+contexts:
+  main:
+   - include: scope:source.binary

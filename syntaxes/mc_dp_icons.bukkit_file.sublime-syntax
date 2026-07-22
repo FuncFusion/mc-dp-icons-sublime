@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: bukkit
+scope: mc_dp_icons.bukkit_file
+hidden: true
+file_extensions:
+  - bukkit.yaml
+  - bukkit.yml
+  - plugin.yaml
+  - plugin.yml
+contexts:
+  main:
+   - include: scope:source.binary

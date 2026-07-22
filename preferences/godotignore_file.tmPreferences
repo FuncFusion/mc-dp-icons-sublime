@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <key>scope</key>
+        <string>mc_dp_icons.godotignore_file</string>
+        <key>settings</key>
+        <dict>
+            <key>icon</key>
+            <string>godotignore_file</string>
+        </dict>
+    </dict>
+</plist>

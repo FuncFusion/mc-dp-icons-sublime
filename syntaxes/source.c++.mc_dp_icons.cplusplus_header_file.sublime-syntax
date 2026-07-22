@@ -1,0 +1,15 @@
+%YAML 1.2
+---
+name: C++
+scope: source.c++.mc_dp_icons.cplusplus_header_file
+hidden: true
+file_extensions:
+  - h++
+  - hh
+  - hpp
+  - hxx
+  - inl
+  - ipp
+contexts:
+  main:
+   - include: scope:source.c++

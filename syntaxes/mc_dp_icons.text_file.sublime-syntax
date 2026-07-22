@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: text
+scope: mc_dp_icons.text_file
+hidden: true
+file_extensions:
+  - txt
+contexts:
+  main:
+   - include: scope:source.binary

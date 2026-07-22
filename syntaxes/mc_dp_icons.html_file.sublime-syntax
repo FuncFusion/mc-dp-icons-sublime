@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: html
+scope: mc_dp_icons.html_file
+hidden: true
+file_extensions:
+  - hta
+  - htmls
+  - xht
+contexts:
+  main:
+   - include: scope:source.binary

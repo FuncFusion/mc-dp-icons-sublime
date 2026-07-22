@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: ajmeta
+scope: mc_dp_icons.ajmeta_file
+hidden: true
+file_extensions:
+  - ajblueprint
+  - ajmeta
+  - ajmodel
+contexts:
+  main:
+   - include: scope:source.binary

@@ -1,0 +1,17 @@
+%YAML 1.2
+---
+name: json
+scope: mc_dp_icons.json_file
+hidden: true
+file_extensions:
+  - har
+  - json5
+  - jsonl
+  - jsonld
+  - ndjson
+  - pdt
+  - topojson
+  - webmanifest
+contexts:
+  main:
+   - include: scope:source.binary

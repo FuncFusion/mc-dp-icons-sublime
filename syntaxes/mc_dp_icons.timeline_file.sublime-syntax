@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: timeline
+scope: mc_dp_icons.timeline_file
+hidden: true
+file_extensions:
+  - CHANGELOG
+  - CHANGELOG.md
+  - CHANGELOG.txt
+contexts:
+  main:
+   - include: scope:source.binary

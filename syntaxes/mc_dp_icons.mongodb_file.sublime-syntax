@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: mongodb
+scope: mc_dp_icons.mongodb_file
+hidden: true
+file_extensions:
+  - mongo
+contexts:
+  main:
+   - include: scope:source.binary

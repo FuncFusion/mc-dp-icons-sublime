@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: python
+scope: mc_dp_icons.python_file
+hidden: true
+file_extensions:
+  - pyde
+  - pyp
+  - pyt
+contexts:
+  main:
+   - include: scope:source.binary

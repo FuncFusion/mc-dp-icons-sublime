@@ -1,0 +1,40 @@
+%YAML 1.2
+---
+name: audio
+scope: mc_dp_icons.audio_file
+hidden: true
+file_extensions:
+  - ogg
+  - fsb
+  - aac
+  - ac3
+  - aif
+  - aiff
+  - amr
+  - ape
+  - au
+  - dts
+  - f4a
+  - f4b
+  - flac
+  - gsm
+  - m4a
+  - m4b
+  - m4p
+  - mid
+  - midi
+  - mka
+  - mp2
+  - mp3
+  - mpc
+  - oga
+  - opus
+  - pda
+  - ra
+  - spx
+  - wav
+  - wma
+  - wv
+contexts:
+  main:
+   - include: scope:source.binary

@@ -1,0 +1,17 @@
+%YAML 1.2
+---
+name: document
+scope: mc_dp_icons.document_file
+hidden: true
+file_extensions:
+  - doc
+  - docx
+  - fodt
+  - odm
+  - odt
+  - pages
+  - wpd
+  - wps
+contexts:
+  main:
+   - include: scope:source.binary

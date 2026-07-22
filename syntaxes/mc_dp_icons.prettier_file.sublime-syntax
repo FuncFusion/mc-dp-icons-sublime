@@ -1,0 +1,14 @@
+%YAML 1.2
+---
+name: prettier
+scope: mc_dp_icons.prettier_file
+hidden: true
+file_extensions:
+  - .prettierrc
+  - .prettierrc.json
+  - .prettierrc.json5
+  - .prettierrc.yaml
+  - .prettierrc.yml
+contexts:
+  main:
+   - include: scope:source.binary

@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: yaml
+scope: mc_dp_icons.yaml_file
+hidden: true
+file_extensions:
+  - rviz
+contexts:
+  main:
+   - include: scope:source.binary

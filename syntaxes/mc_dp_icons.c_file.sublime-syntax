@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: c
+scope: mc_dp_icons.c_file
+hidden: true
+file_extensions:
+  - i
+  - objc
+contexts:
+  main:
+   - include: scope:source.binary

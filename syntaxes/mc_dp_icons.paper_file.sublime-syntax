@@ -1,0 +1,17 @@
+%YAML 1.2
+---
+name: paper
+scope: mc_dp_icons.paper_file
+hidden: true
+file_extensions:
+  - paper-global.yaml
+  - paper-global.yml
+  - paper-plugin.yaml
+  - paper-plugin.yml
+  - paper-world-defaults.yaml
+  - paper-world-defaults.yml
+  - paper-world.yaml
+  - paper-world.yml
+contexts:
+  main:
+   - include: scope:source.binary

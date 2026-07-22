@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: terraform
+scope: mc_dp_icons.terraform_file
+hidden: true
+file_extensions:
+  - tf
+contexts:
+  main:
+   - include: scope:source.binary

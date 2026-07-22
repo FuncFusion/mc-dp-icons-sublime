@@ -1,0 +1,15 @@
+%YAML 1.2
+---
+name: vscode
+scope: mc_dp_icons.vscode_file
+hidden: true
+file_extensions:
+  - code-profile
+  - code-snippets
+  - code-workplace
+  - code-workspace
+  - vsix
+  - vsixmanifest
+contexts:
+  main:
+   - include: scope:source.binary

@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: forge
+scope: mc_dp_icons.forge_file
+hidden: true
+file_extensions:
+  - accesstransformer.cfg
+  - mcmod.info
+  - mods.toml
+contexts:
+  main:
+   - include: scope:source.binary

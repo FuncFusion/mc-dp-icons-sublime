@@ -1,0 +1,44 @@
+%YAML 1.2
+---
+name: config
+scope: mc_dp_icons.config_file
+hidden: true
+file_extensions:
+  - .eslintrc
+  - .eslintrc.json
+  - .eslintrc.yaml
+  - .eslintrc.yml
+  - .hintrc
+  - .hintrc.json
+  - .hintrc.yaml
+  - .hintrc.yml
+  - .mcattributes
+  - .mcdefinitions
+  - appsettings.json
+  - conf
+  - config
+  - config.json
+  - settings.json
+  - webpack.config.cjs
+  - webpack.config.mjs
+  - cfg
+  - cnf
+  - conf
+  - conf.dist
+  - config
+  - config.js
+  - config.ts
+  - dist
+  - env
+  - env.development
+  - env.example
+  - env.local
+  - env.production
+  - htaccess
+  - import
+  - ini
+  - ini.dist
+  - settings
+contexts:
+  main:
+   - include: scope:source.binary

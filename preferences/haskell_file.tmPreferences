@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <key>scope</key>
+        <string>source.cabal,source.haskell,text.tex.latex.haskell,mc_dp_icons.haskell_file</string>
+        <key>settings</key>
+        <dict>
+            <key>icon</key>
+            <string>haskell_file</string>
+        </dict>
+    </dict>
+</plist>

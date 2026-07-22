@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: java
+scope: mc_dp_icons.java_file
+hidden: true
+file_extensions:
+  - class
+  - jmod
+  - jws
+contexts:
+  main:
+   - include: scope:source.binary

@@ -1,0 +1,26 @@
+%YAML 1.2
+---
+name: font
+scope: mc_dp_icons.font_file
+hidden: true
+file_extensions:
+  - font
+  - ttf
+  - fontdata
+  - bmap
+  - eot
+  - fnt
+  - fonts
+  - mrf
+  - ntf
+  - odttf
+  - otf
+  - pft
+  - sui
+  - suit
+  - ttc
+  - woff
+  - woff2
+contexts:
+  main:
+   - include: scope:source.binary

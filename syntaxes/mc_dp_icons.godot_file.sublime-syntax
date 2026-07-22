@@ -1,0 +1,14 @@
+%YAML 1.2
+---
+name: godot
+scope: mc_dp_icons.godot_file
+hidden: true
+file_extensions:
+  - gd
+  - gdextension
+  - tres
+  - tscn
+  - uid
+contexts:
+  main:
+   - include: scope:source.binary

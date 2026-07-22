@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: YAML
+scope: source.yaml.mc_dp_icons.yaml_file
+hidden: true
+file_extensions:
+  - yaml
+  - yml
+contexts:
+  main:
+   - include: scope:source.yaml

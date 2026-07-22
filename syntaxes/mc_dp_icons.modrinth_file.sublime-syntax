@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: modrinth
+scope: mc_dp_icons.modrinth_file
+hidden: true
+file_extensions:
+  - modrinth.index.json
+  - modrinth.json
+  - mrpack
+contexts:
+  main:
+   - include: scope:source.binary

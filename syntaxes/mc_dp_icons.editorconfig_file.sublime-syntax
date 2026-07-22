@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: editorconfig
+scope: mc_dp_icons.editorconfig_file
+hidden: true
+file_extensions:
+  - .editorconfig
+contexts:
+  main:
+   - include: scope:source.binary

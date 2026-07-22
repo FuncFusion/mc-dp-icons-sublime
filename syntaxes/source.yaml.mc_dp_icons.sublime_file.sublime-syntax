@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: YAML
+scope: source.yaml.mc_dp_icons.sublime_file
+hidden: true
+file_extensions:
+  - sublime-syntax
+contexts:
+  main:
+   - include: scope:source.yaml

@@ -1,0 +1,17 @@
+%YAML 1.2
+---
+name: rlang
+scope: mc_dp_icons.rlang_file
+hidden: true
+file_extensions:
+  - r
+  - rda
+  - rdata
+  - rds
+  - rhistory
+  - rmd
+  - rprofile
+  - rproj
+contexts:
+  main:
+   - include: scope:source.binary

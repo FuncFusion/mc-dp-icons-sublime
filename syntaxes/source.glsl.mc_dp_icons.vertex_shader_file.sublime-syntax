@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: GLSL
+scope: source.glsl.mc_dp_icons.vertex_shader_file
+hidden: true
+file_extensions:
+  - vsh
+  - vert
+contexts:
+  main:
+   - include: scope:source.glsl

@@ -1,0 +1,25 @@
+%YAML 1.2
+---
+name: lock
+scope: mc_dp_icons.lock_file
+hidden: true
+file_extensions:
+  - go.sum
+  - package-lock.json
+  - pnpm-lock.yaml
+  - pnpm-lock.yml
+  - checksum
+  - crc
+  - hash
+  - hashes
+  - lock
+  - lock.json
+  - lockb
+  - lockfile
+  - md5
+  - sha1
+  - sha256
+  - sha512
+contexts:
+  main:
+   - include: scope:source.binary

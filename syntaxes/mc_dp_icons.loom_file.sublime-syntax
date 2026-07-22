@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: loom
+scope: mc_dp_icons.loom_file
+hidden: true
+file_extensions:
+  - loom.gradle
+  - loom.gradle.kts
+contexts:
+  main:
+   - include: scope:source.binary

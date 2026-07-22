@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: C++
+scope: source.c++.mc_dp_icons.cplusplus_file
+hidden: true
+file_extensions:
+  - c++
+  - cc
+  - cpp
+  - cxx
+contexts:
+  main:
+   - include: scope:source.c++

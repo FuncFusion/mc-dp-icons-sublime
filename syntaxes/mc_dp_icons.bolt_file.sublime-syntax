@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: bolt
+scope: mc_dp_icons.bolt_file
+hidden: true
+file_extensions:
+  - bolt
+contexts:
+  main:
+   - include: scope:source.binary

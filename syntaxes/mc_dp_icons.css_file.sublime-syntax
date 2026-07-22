@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: css
+scope: mc_dp_icons.css_file
+hidden: true
+file_extensions:
+  - less
+  - scss
+contexts:
+  main:
+   - include: scope:source.binary

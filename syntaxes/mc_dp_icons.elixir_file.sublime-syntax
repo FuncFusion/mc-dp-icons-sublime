@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: elixir
+scope: mc_dp_icons.elixir_file
+hidden: true
+file_extensions:
+  - heex
+  - leex
+  - sface
+contexts:
+  main:
+   - include: scope:source.binary

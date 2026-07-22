@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: hjmc
+scope: mc_dp_icons.hjmc_file
+hidden: true
+file_extensions:
+  - hjmc
+contexts:
+  main:
+   - include: scope:source.binary

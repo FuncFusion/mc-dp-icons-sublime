@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: vs
+scope: mc_dp_icons.vs_file
+hidden: true
+file_extensions:
+  - sln
+contexts:
+  main:
+   - include: scope:source.binary

@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: haskell
+scope: mc_dp_icons.haskell_file
+hidden: true
+file_extensions:
+  - cabal.project.freeze
+  - cabal.project.local
+contexts:
+  main:
+   - include: scope:source.binary

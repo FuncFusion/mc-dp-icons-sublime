@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: brainfuck
+scope: mc_dp_icons.brainfuck_file
+hidden: true
+file_extensions:
+  - b
+  - bfk
+  - brainfuck
+  - brfk
+contexts:
+  main:
+   - include: scope:source.binary

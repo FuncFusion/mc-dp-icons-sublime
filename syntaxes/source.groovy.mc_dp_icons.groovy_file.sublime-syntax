@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: Groovy
+scope: source.groovy.mc_dp_icons.groovy_file
+hidden: true
+file_extensions:
+  - groovy
+contexts:
+  main:
+   - include: scope:source.groovy

@@ -1,0 +1,19 @@
+%YAML 1.2
+---
+name: executable
+scope: mc_dp_icons.executable_file
+hidden: true
+file_extensions:
+  - app
+  - appx
+  - com
+  - dmg
+  - exe
+  - msi
+  - out
+  - pdx
+  - pdz
+  - run
+contexts:
+  main:
+   - include: scope:source.binary

@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: clojure
+scope: mc_dp_icons.clojure_file
+hidden: true
+file_extensions:
+  - cljd
+  - cljr
+contexts:
+  main:
+   - include: scope:source.binary

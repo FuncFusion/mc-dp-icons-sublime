@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <key>scope</key>
+        <string>source.java-props,mc_dp_icons.config_file</string>
+        <key>settings</key>
+        <dict>
+            <key>icon</key>
+            <string>config_file</string>
+        </dict>
+    </dict>
+</plist>

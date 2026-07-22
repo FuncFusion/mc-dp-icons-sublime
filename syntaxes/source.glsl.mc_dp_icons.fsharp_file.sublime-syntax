@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: GLSL
+scope: source.glsl.mc_dp_icons.fsharp_file
+hidden: true
+file_extensions:
+  - fs
+contexts:
+  main:
+   - include: scope:source.glsl

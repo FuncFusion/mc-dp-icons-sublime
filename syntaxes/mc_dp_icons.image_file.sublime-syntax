@@ -1,0 +1,78 @@
+%YAML 1.2
+---
+name: image
+scope: mc_dp_icons.image_file
+hidden: true
+file_extensions:
+  - png
+  - afphoto
+  - ami
+  - apx
+  - art
+  - avif
+  - bmp
+  - bpg
+  - brk
+  - cd5
+  - cdr
+  - cgm
+  - clip
+  - cpt
+  - cur
+  - dcm
+  - dds
+  - djvu
+  - dng
+  - ecw
+  - eps
+  - exr
+  - flif
+  - fpx
+  - gbr
+  - gif
+  - hdr
+  - heic
+  - heif
+  - icns
+  - ico
+  - iff
+  - img
+  - jb2
+  - jbig2
+  - jfif
+  - jng
+  - jp2
+  - jpeg
+  - jpg
+  - jxr
+  - kra
+  - mdp
+  - mng
+  - ora
+  - pbm
+  - pcx
+  - pdi
+  - pdn
+  - pgf
+  - pgm
+  - pgx
+  - pic
+  - pnm
+  - ppm
+  - psb
+  - psd
+  - raw
+  - reb
+  - sai
+  - sid
+  - tga
+  - tif
+  - tiff
+  - vtf
+  - wbmp
+  - webp
+  - wmf
+  - xcf
+contexts:
+  main:
+   - include: scope:source.binary

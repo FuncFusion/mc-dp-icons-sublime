@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: gamemaker
+scope: mc_dp_icons.gamemaker_file
+hidden: true
+file_extensions:
+  - yy
+  - yymp
+  - yyp
+  - yyz
+contexts:
+  main:
+   - include: scope:source.binary

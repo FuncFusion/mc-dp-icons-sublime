@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: C++
+scope: source.c++.mc_dp_icons.c_header_file
+hidden: true
+file_extensions:
+  - h
+contexts:
+  main:
+   - include: scope:source.c++

@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: perl
+scope: mc_dp_icons.perl_file
+hidden: true
+file_extensions:
+  - pls
+  - plx
+  - xs
+contexts:
+  main:
+   - include: scope:source.binary

@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: rust
+scope: mc_dp_icons.rust_file
+hidden: true
+file_extensions:
+  - rlib
+  - ron
+contexts:
+  main:
+   - include: scope:source.binary

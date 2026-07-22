@@ -1,0 +1,15 @@
+%YAML 1.2
+---
+name: todo
+scope: mc_dp_icons.todo_file
+hidden: true
+file_extensions:
+  - todo.md
+  - todo.txt
+  - taskpaper
+  - tasks
+  - todo
+  - todos
+contexts:
+  main:
+   - include: scope:source.binary

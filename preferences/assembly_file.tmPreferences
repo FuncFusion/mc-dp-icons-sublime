@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <key>scope</key>
+        <string>source.asm.arm,mc_dp_icons.assembly_file</string>
+        <key>settings</key>
+        <dict>
+            <key>icon</key>
+            <string>assembly_file</string>
+        </dict>
+    </dict>
+</plist>

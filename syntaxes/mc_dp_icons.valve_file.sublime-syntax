@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+name: valve
+scope: mc_dp_icons.valve_file
+hidden: true
+file_extensions:
+  - bsp
+  - vmf
+  - vmt
+contexts:
+  main:
+   - include: scope:source.binary

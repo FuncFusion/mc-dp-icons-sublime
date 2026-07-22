@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: recipe
+scope: mc_dp_icons.recipe_file
+hidden: true
+file_extensions:
+  - gnumakefile
+  - kbuild
+  - makefile
+  - zs
+contexts:
+  main:
+   - include: scope:source.binary

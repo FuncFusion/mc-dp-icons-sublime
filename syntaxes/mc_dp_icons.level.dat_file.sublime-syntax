@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: level.dat
+scope: mc_dp_icons.level.dat_file
+hidden: true
+file_extensions:
+  - level.dat
+contexts:
+  main:
+   - include: scope:source.binary

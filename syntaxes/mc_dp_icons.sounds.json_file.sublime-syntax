@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: sounds.json
+scope: mc_dp_icons.sounds.json_file
+hidden: true
+file_extensions:
+  - sounds.json
+contexts:
+  main:
+   - include: scope:source.binary

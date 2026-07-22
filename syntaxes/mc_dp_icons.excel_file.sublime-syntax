@@ -1,0 +1,18 @@
+%YAML 1.2
+---
+name: excel
+scope: mc_dp_icons.excel_file
+hidden: true
+file_extensions:
+  - csv
+  - ods
+  - psv
+  - tsv
+  - xls
+  - xlsb
+  - xlsm
+  - xlsx
+  - xlw
+contexts:
+  main:
+   - include: scope:source.binary

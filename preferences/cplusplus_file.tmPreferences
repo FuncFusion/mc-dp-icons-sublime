@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <key>scope</key>
+        <string>mc_dp_icons.cplusplus_file,source.c++.mc_dp_icons.cplusplus_file</string>
+        <key>settings</key>
+        <dict>
+            <key>icon</key>
+            <string>cplusplus_file</string>
+        </dict>
+    </dict>
+</plist>

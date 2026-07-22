@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <key>scope</key>
+        <string>source.swift,mc_dp_icons.swift_file</string>
+        <key>settings</key>
+        <dict>
+            <key>icon</key>
+            <string>swift_file</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: spyglass
+scope: mc_dp_icons.spyglass_file
+hidden: true
+file_extensions:
+  - mcdoc
+  - spyglass.json
+contexts:
+  main:
+   - include: scope:source.binary

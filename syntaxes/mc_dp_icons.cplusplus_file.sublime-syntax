@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: cplusplus
+scope: mc_dp_icons.cplusplus_file
+hidden: true
+file_extensions:
+  - ii
+contexts:
+  main:
+   - include: scope:source.binary

@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: Java
+scope: source.java.mc_dp_icons.shell_file
+hidden: true
+file_extensions:
+  - bsh
+contexts:
+  main:
+   - include: scope:source.java

@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: XML
+scope: text.xml.mc_dp_icons.sublime_file
+hidden: true
+file_extensions:
+  - sublime-snippet
+contexts:
+  main:
+   - include: scope:text.xml

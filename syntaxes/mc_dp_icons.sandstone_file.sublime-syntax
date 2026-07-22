@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: sandstone
+scope: mc_dp_icons.sandstone_file
+hidden: true
+file_extensions:
+  - sandstone.config.ts
+contexts:
+  main:
+   - include: scope:source.binary

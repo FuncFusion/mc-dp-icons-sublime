@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: pack.mcmeta
+scope: mc_dp_icons.pack.mcmeta_file
+hidden: true
+file_extensions:
+  - pack.mcmeta
+  - manifest.json
+contexts:
+  main:
+   - include: scope:source.binary

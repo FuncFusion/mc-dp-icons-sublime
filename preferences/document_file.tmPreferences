@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <key>scope</key>
+        <string>source.dot,mc_dp_icons.document_file,text.tex.latex.mc_dp_icons.document_file</string>
+        <key>settings</key>
+        <dict>
+            <key>icon</key>
+            <string>document_file</string>
+        </dict>
+    </dict>
+</plist>

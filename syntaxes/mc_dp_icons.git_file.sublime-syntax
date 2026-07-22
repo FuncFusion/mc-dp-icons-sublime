@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: git
+scope: mc_dp_icons.git_file
+hidden: true
+file_extensions:
+  - git
+contexts:
+  main:
+   - include: scope:source.binary

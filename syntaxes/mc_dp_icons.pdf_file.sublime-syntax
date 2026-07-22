@@ -1,0 +1,14 @@
+%YAML 1.2
+---
+name: pdf
+scope: mc_dp_icons.pdf_file
+hidden: true
+file_extensions:
+  - CODE_OF_CONDUCT
+  - CODE_OF_CONDUCT.md
+  - CODE_OF_CONDUCT.txt
+  - pdf
+  - rtf
+contexts:
+  main:
+   - include: scope:source.binary

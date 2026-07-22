@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+name: fortran
+scope: mc_dp_icons.fortran_file
+hidden: true
+file_extensions:
+  - f
+  - f77
+  - for
+  - ftn
+contexts:
+  main:
+   - include: scope:source.binary

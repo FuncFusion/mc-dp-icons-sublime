@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: aseprite_extension
+scope: mc_dp_icons.aseprite_extension_file
+hidden: true
+file_extensions:
+  - aseprite-extension
+contexts:
+  main:
+   - include: scope:source.binary

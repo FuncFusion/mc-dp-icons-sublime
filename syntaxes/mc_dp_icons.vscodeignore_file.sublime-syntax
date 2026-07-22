@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: vscodeignore
+scope: mc_dp_icons.vscodeignore_file
+hidden: true
+file_extensions:
+  - vscodeignore
+contexts:
+  main:
+   - include: scope:source.binary

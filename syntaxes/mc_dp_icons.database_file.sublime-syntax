@@ -1,0 +1,31 @@
+%YAML 1.2
+---
+name: database
+scope: mc_dp_icons.database_file
+hidden: true
+file_extensions:
+  - accdb
+  - db
+  - db3
+  - dbf
+  - fdb
+  - frm
+  - gdb
+  - ldb
+  - mdb
+  - mongodb
+  - myd
+  - myi
+  - nsf
+  - odb
+  - pdb
+  - pgsql
+  - pkb
+  - pks
+  - postgres
+  - sdb
+  - sqlite
+  - sqlite3
+contexts:
+  main:
+   - include: scope:source.binary
