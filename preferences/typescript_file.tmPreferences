@@ -2,7 +2,7 @@
 <plist version="1.0">
     <dict>
         <key>scope</key>
-        <string>source.ts,mc_dp_icons.typescript_file</string>
+        <string>source.ts,source.tsx,mc_dp_icons.typescript_file</string>
         <key>settings</key>
         <dict>
             <key>icon</key>

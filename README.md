@@ -7,6 +7,10 @@
 This is an official port of [Datapack Icons](https://marketplace.visualstudio.com/items?itemName=SuperAnt.mc-dp-icons) extension for Sublime Text.
 Unfortunately Sublime Text packages are very limited when it comes to file icons themes, so the port lacks dynamic icon features that are present in main extension.
 
+## Showcase
+![](./illustrations/preview34.png)
+![](./illustrations/preview72.png)
+
 # Install
 
 1. [Install Package Control](https://packagecontrol.io/installation) if it is not already present.

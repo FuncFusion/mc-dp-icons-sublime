@@ -2,7 +2,7 @@
 <plist version="1.0">
     <dict>
         <key>scope</key>
-        <string>source.js,mc_dp_icons.javascript_file</string>
+        <string>source.js,source.jsx,mc_dp_icons.javascript_file</string>
         <key>settings</key>
         <dict>
             <key>icon</key>
