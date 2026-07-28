@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: pixi
+scope: mc_dp_icons.pixi_file
+hidden: true
+file_extensions:
+  - pixi.toml
+  - pixi.lock
+contexts:
+  main:
+   - include: scope:source.binary
