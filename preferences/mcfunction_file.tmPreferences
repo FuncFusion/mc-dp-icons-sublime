@@ -2,7 +2,7 @@
 <plist version="1.0">
     <dict>
         <key>scope</key>
-        <string>source.mcfunction</string>
+        <string>source.mcfunction.mc_dp_icons.mcfunction_file</string>
         <key>settings</key>
         <dict>
             <key>icon</key>

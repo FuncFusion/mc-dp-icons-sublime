@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: Syntax Mcfunction
+scope: source.mcfunction.mc_dp_icons.bolt_file
+hidden: true
+file_extensions:
+  - bolt
+contexts:
+  main:
+   - include: scope:source.mcfunction

@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+name: Syntax Mcfunction
+scope: source.mcfunction.mc_dp_icons.mcfunction_file
+hidden: true
+file_extensions:
+  - mcfunction
+contexts:
+  main:
+   - include: scope:source.mcfunction
