@@ -5,6 +5,7 @@ scope: mc_dp_icons.flare_file
 hidden: true
 file_extensions:
   - flare.json
+  - fl
 contexts:
   main:
    - include: scope:source.binary

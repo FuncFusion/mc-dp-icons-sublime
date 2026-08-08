@@ -6,7 +6,6 @@ hidden: true
 file_extensions:
   - mojo
   - mojom
-  - �
 contexts:
   main:
    - include: scope:source.binary

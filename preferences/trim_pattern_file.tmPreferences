@@ -2,7 +2,7 @@
 <plist version="1.0">
     <dict>
         <key>scope</key>
-        <string></string>
+        <string>text.html.go</string>
         <key>settings</key>
         <dict>
             <key>icon</key>

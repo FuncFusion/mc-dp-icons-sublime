@@ -5,7 +5,7 @@ scope: mc_dp_icons.pixi_file
 hidden: true
 file_extensions:
   - pixi.toml
-  - pixi.lock
+  - pixi-global.toml
 contexts:
   main:
    - include: scope:source.binary
